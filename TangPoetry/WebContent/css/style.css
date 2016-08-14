@@ -1,0 +1,49 @@
+@CHARSET "UTF-8";
+body {
+	background: url(../image/t_bg.png) repeat-x;
+	margin: 0px;
+	padding: 0px;
+}
+/*index.jsp  */
+
+.content {
+	background: url(../image/meihua.png) no-repeat;
+	text-align: center;
+	width: 100%;
+	height: 300px;
+	padding-top:20px;
+}
+a {
+	text-decoration: none;
+}
+
+/* main_top.jsp */
+.main_top {
+	background: url(../image/meihua.png) no-repeat;
+	width: 100%;
+	height: 200px;
+	padding-top:20px;
+	text-align:center;
+}
+/*main_left.jsp  */
+.d_href{
+	text-align: center;
+}
+ .d_href a {
+	text-decoration: none;
+	line-height: 40px;
+}
+/* serachXX.jsp */
+.search {
+	text-align: center;
+	height: 300px;
+	padding-top: 30px;
+}
+#s_text{ 
+	width:300px;
+	height:30px;
+}
+#s_sub{
+	width:100px;
+	height:32px;
+}

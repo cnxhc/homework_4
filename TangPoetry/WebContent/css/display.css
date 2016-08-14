@@ -1,0 +1,17 @@
+body {
+	background: #efefe5;
+	margin: 0px;
+	padding: 0px;
+}
+
+.context {
+	text-align: center;
+}
+a {
+	text-decoration: none;
+}
+#tb_center td{
+			display:block;
+	 		background:#565656;
+           	text-align: center;
+}
